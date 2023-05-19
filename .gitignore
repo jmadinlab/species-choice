@@ -6,3 +6,6 @@
 *.html
 .Rapp.history
 
+zenodo/
+species_choice/
+species_choice*
